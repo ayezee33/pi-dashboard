@@ -1,0 +1,9 @@
+#clock {
+  font-size: 5em;
+}
+#date {
+  font-size: 2em;
+}
+.col-lg-6:nth-child(3n+1){
+    clear:left
+}
